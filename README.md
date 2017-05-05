@@ -1,4 +1,4 @@
 # AdminCMS
-CMS for easily create web application
+WAMS (Web Application Management System) for easily create web application
 
 ## Description
